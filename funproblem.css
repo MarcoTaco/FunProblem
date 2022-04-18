@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+#post-section h1{
+    text-align:center;
+    color: lightgray;
+}
+
+
+#post-items-container{
+    width: 50%;
+    height: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+}
+
+#post-items-container h3{
+    text-align: center;
+    padding-top: 25px;
+}
+
+#post-items-container a{
+    color: black;
+}
